@@ -1,4 +1,4 @@
-# Biomedical-Material 生物医用材料项目
+# Biomedical-Material
 
 主要用于相关技术整理与分享
 
